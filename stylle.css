@@ -24,3 +24,9 @@ body {
         align-items: center;
         text-align: center;
 }
+
+.container {
+     width: 100vh;
+     display: grid;
+     grid-template-columns: 50% 50%;
+}
